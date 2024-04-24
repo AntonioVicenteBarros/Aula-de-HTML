@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@font-face {
+   font-family: honk;
+   src: url(Honk-Regular-VariableFont_MORF,SHLN.ttf);
+}
+body{
+   background-color: rgba(54, 2, 11, 0.384);
+   font-family: honk;
+   font-size: 80px;
+
+}
